@@ -50,9 +50,4 @@ How It Works
  License
     This project is open source and available under the MIT License.
 
-Feel free to customize the repo name and README to your taste. This structure gives an end-to-end explanation and clear instructions for users to install, run, and understand your project fully. Let me know if you want me to generate the README file text as a downloadable file or anything else!
 
-[1](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/105134829/54826be2-b428-46e2-b4da-afb9b67fa261/ui.py)
-[2](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/105134829/6a5d6bfd-6b61-406c-9491-3b400cc143bf/main.py)
-[3](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/105134829/d31ae59e-4e65-4c90-b3b1-17bc012de9bf/requirements.txt)
-[4](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/105134829/2e887044-c0de-4379-946b-15cfcdd305a6/monitor.py)
